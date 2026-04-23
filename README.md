@@ -66,7 +66,7 @@ Transforms raw segment-level delivery records into clean, aggregated trip featur
     └─────────────────────┘  └─────────────────────┘  └────────────────────────┘
 ```
 
----
+
 
 ## Project Structure
 
@@ -100,7 +100,7 @@ delhivery-logistics-eda/
 - **46,413 rows** (segment-level) → **4,752 trips** after two-stage aggregation
 - Missing values only in `source_name` (121) and `destination_name` (76) — treated with `'Unknown'`
 
----
+
 
 ## Notebook Walkthrough
 

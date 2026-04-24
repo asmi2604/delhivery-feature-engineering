@@ -69,14 +69,14 @@ ___
 
 
 ## Project Structure
-
 ```
-delhivery-logistics-eda/
+delhivery-feature-engineering/
 │
-├── Delhivery_Logistics_CaseStudy.ipynb   ← Main notebook (open in Colab)
-├── delhivery_data.csv                    ← Raw dataset (46,413 rows × 24 cols)
-└── README.md                             ← This file
+├── delhivery_analysis.ipynb   ← Main notebook (open in Colab)
+├── delhivery_data.csv         ← Raw dataset (46,413 rows × 24 cols)
+└── README.md                  ← This file
 ```
+
 ## Dataset
 
 | Column | Description | Type |

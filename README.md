@@ -70,7 +70,7 @@ ___
 
 ## Project Structure
 ```
-delhivery-feature-engineering/
+delhivery-feature-engineering
 │
 ├── delhivery_analysis.ipynb   ← Main notebook (open in Colab)
 ├── delhivery_data.csv         ← Raw dataset (46,413 rows × 24 cols)

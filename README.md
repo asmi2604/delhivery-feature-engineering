@@ -6,7 +6,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-1.11%2B-8CAAE6.svg)](https://scipy.org/)
 
 End-to-end **logistics data engineering and EDA** pipeline for Delhivery's trip-level operational dataset.
-Transforms raw segment-level delivery records into clean, aggregated trip features — comparing OSRM planned routes against actual behaviour, testing statistical hypotheses on delays, and surfacing business insights about corridor performance and route efficiency.
+Transforms raw segment-level delivery records into clean, aggregated trip features comparing OSRM planned routes against actual behaviour, testing statistical hypotheses on delays, and surfacing business insights about corridor performance and route efficiency.
 ___
 ## Highlights
 

@@ -125,9 +125,8 @@ delhivery-logistics-eda/
 | 17 | Actionable Recommendations | ETA recalibration · Corridor prioritisation · Route optimisation · Dispatch timing |
 
 ---
-``` Dataset Download ```
-Download the dataset from [Scaler] provided as a Business case study
-Actionable Recommendations ```
+Dataset Download
+Dataset from [Scaler] provided as a Business case study
 ---
 
 ## Hypothesis Testing Summary
